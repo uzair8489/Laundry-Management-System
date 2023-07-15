@@ -1,0 +1,245 @@
+E:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.exe.config
+E:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.exe
+E:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.pdb
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csprojAssemblyReference.cache
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Form1.resources
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Properties.Resources.resources
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.GenerateResource.cache
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.CoreCompileInputs.cache
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.exe
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.pdb
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Form2.resources
+E:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Admin_Login.resources
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.exe.config
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.exe
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Laundry System.pdb
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Properties.Resources.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.GenerateResource.cache
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.CoreCompileInputs.cache
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.exe
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.pdb
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\EnvDTE.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\stdole.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Microsoft.MSXML.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\RdlCompile.cache
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\RdlCompile.compiled
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.CopyComplete
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Report.Print_Invoice.resources
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\MetroFramework.Design.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\MetroFramework.dll
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\MetroFramework.Fonts.dll
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Clothes_Details.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Edit_Cloth_Details.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Brand_List.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Brand_Module.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Product_List.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Category_List.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Category_Module.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Product_Module.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Stock_In.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Search_Product_Stock_In.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Cashier_Menu.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Quantity.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.LookUp.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Discount.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Settle.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Receipt.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Orders_Done.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.User_Account.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Security.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Done_Orders_Report.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Cancel_Details.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Void.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Records.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Admin_Portal.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Inventory_Report.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Change_Password.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Store.resources
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Tulpep.NotificationWindow.dll
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Dashboard.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Vendors.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Vendors_List.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Stock_Adjustment.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Chart.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Database_Management.resources
+F:\C# Projects\Laundry System\Laundry System\bin\Debug\Guna.UI2.dll
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Employees_Details.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Recover_Password.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Reset_Password.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry System.csprojAssemblyReference.cache
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Employee_Data_Updation.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Services.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Service_Module.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Customer_Details.resources
+F:\C# Projects\Laundry System\Laundry System\obj\Debug\Laundry_System.Customer_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.AssemblyReference.cache
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.exe
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.pdb
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.SuggestedBindingRedirects.cache
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Laundry System.exe.config
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Laundry System.exe
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Laundry System.pdb
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Guna.UI2.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\MetroFramework.Design.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\MetroFramework.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\MetroFramework.Fonts.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Tulpep.NotificationWindow.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\EnvDTE.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\stdole.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\Microsoft.MSXML.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Admin_Portal.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Brand_List.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Brand_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Cancel_Details.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Cashier_Menu.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Category_List.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Category_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Change_Password.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Chart.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Clothes_Details.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Edit_Cloth_Details.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Customer_Details.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Customer_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Dashboard.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Database_Management.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Discount.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Done_Orders_Report.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Employees_Details.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Employee_Data_Updation.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Inventory_Report.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.LookUp.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Orders_Done.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Product_List.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Product_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Properties.Resources.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Quantity.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Receipt.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Records.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Recover_Password.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Report.Print_Invoice.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Reset_Password.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Search_Product_Stock_In.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Security.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Service_Module.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Services.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Settle.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Stock_Adjustment.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Stock_In.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Store.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.User_Account.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Vendors_List.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Vendors.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry_System.Void.resources
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.GenerateResource.cache
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.CoreCompileInputs.cache
+F:\Laundry Management System\Laundry System\Laundry System\obj\Debug\Laundry System.csproj.CopyComplete
